@@ -1,3 +1,4 @@
 def function():
-  c= 1+2
-  return(c)
+  # code here
+  c = 1 + 2
+  return c
